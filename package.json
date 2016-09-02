@@ -31,7 +31,7 @@
   "homepage": "https://github.com/ediket/nothinkdb-graphql#readme",
   "peerDependencies": {
     "rethinkdb": "^2.x",
-    "nothinkdb": "^0.x"
+    "nothinkdb": "^0.x",
     "graphql": "^0.7.0",
     "graphql-relay": "^0.4.3"
   },
